@@ -9,6 +9,7 @@ for the WiDS 5.0 project.
   - Implemented basic machine learning concepts in Python as part of the assignment.
 - **Week 4 Assignment**
   - Extended the Week 3 work by training and evaluating models for traffic sign classification.
+  - Worked with Convolutional Neural Networks(CNNs) for enhanced pattern recognition. 
 
 The submissions are provided as Google Colab notebooks (`.ipynb`).
 Only assignment-related code has been included; tutorial or follow-along code
